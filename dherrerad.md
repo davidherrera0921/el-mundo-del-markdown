@@ -22,5 +22,25 @@ taxi la geolocalización a través de Google API usando tecnologías
 como Flutter, Dart, Android Studio y Firebase.
 
 ------------------------------------------------------
+
+
+## COMANDOS DE LA TERMINAL
+
+| Comando | Función |
+| ------ | ------ |
+| Clear | [Limpia la consola][PlDb]                       |
+| ls    | [Lista los archivos de la carpeta actual][PlGh] |
+| cd    | [Cambia de directorio][PlGd]                    |
+| mkdir | [Crea una carpeta][PlOd]                        |
+| rm -r | [Elimina una carpeta][PlMe]                     |
+
+---------------------------------------------------------
+## COMANDO ALIAS
+
+| Comando | Función |
+| ------ | ------ |
+| Timeline | [Muestra el historial de ramas y commits de forma ordenada con el comando git log --all --graph --decorate --oneline][PlDb] |
+| cl       | [Es el comando clear, Limpia la pantalla del exceso de comandos][PlGh]                                                      
+
 > http://localhost:8080/dherrerad/index.html
 > 
